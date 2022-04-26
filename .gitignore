@@ -2,3 +2,4 @@ anotherShit.txt
 anotherShit2.txt
 *.log
 !super.log
+.idea/
